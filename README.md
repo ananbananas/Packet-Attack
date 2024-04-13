@@ -1,8 +1,6 @@
-# computer shit
+# On Your Computer
 
 ## Running
-
-I've exported a requirements.txt file, so:
 
 ```console
 $ git clone git@github.com:lmaotrigine/ananyas-thing.git
@@ -13,4 +11,4 @@ $ pip install -r requirements.txt
 $ ./app.py
 ```
 
-Then go to `http://localhost:3000` in a browser and fuck with it.
+Go to `http://localhost:3000` to play with it!
